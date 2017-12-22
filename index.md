@@ -46,8 +46,6 @@ eventbrite: "41347038104"          # optional: alphanumeric key for Eventbrite r
 </iframe>
 {% endif %}
 
-words
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -218,7 +216,7 @@ words
 
   If you want to use an Etherpad, go to
 
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
+      http://pad.software-carpentry.org/2018-01-27-wvu
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
