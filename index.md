@@ -601,7 +601,7 @@ eventbrite: "41347038104"          # optional: alphanumeric key for Eventbrite r
   </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
-
+<!--
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
@@ -771,3 +771,4 @@ eventbrite: "41347038104"          # optional: alphanumeric key for Eventbrite r
   </ol>
 </div>
 {% endcomment %}
+-->
